@@ -3,3 +3,4 @@
 /.nuke
 
 *.gizmo
+*.pyc
